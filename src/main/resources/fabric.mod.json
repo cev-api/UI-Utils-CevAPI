@@ -3,11 +3,12 @@
   "id": "ui-utils",
   "version": "${version}",
 
-  "name": "UI Utils",
+  "name": "UI Utils CevAPI",
   "description": "Plugin debugging mod.",
   "authors": [
     "Coderx_Gamer",
-    "MrBreakNFix"
+    "MrBreakNFix",
+    "CevAPI"
   ],
   "contact": {
     "homepage": "https://ui-utils.com",
@@ -45,7 +46,6 @@
 
   "breaks": {
     "modernfix": "*",
-    "wurst": "*",
     "essential": "*"
   },
 
