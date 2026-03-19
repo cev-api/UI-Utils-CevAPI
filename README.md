@@ -1,8 +1,14 @@
 # UI-Utils CevAPI 2.4.0 - Minecraft 1.21.11
 
-This repository is a **fork of UI-Utils** updated specifically to support **Minecraft 1.21.11**.
+This repository is a **fork of UI-Utils** updated specifically for **Minecraft 1.21.11**.
 
-This fork was created and shared **with the blessings of MrBreakNFix**.
+This fork was created and shared **with the blessing of MrBreakNFix**.
+
+This project is not expected to receive further updates, as it is only a simple version bump. Continued development instead moved into [Wurst 7 CevAPI](https://github.com/cev-api/Wurst7-CevAPI), where UI-Utils was reworked, converted to mojmap and expanded with additional features.
+
+There is no newer standalone release for **Minecraft 1.21.11**, as further development continued only within [Wurst 7 CevAPI](https://github.com/cev-api/Wurst7-CevAPI).
+
+If you are looking for a newer **standalone** version of UI-Utils, that is only available for **Minecraft 26x** and can be found [here](https://github.com/cev-api/UI-Utils-26x-CevAPI). It is fundamentally a standalone port of the features added to the [Wurst 7 CevAPI](https://github.com/cev-api/Wurst7-CevAPI) version.
 
 ## What it is
 
